@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "6rmGxB029rgEJnnhnnsRohorVLHuYmMCCPVXysL4GC+mD92MUMPlTR9z46fiR//L6dq+kBFZu+zMZFAXn/utTw==",
+  "success": true,
+  "projectFilePath": "/Users/cbush/projects/scratch/cruze/dotnet/weather-api/weather-api.csproj",
+  "expectedPackageFiles": [
+    "/Users/cbush/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/cbush/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/cbush/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/Users/cbush/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/Users/cbush/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/Users/cbush/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
